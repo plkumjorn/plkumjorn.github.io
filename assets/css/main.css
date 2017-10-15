@@ -3808,6 +3808,10 @@
 	.squareBullet{
 		list-style-type: square;
 	}
+	
+	.noneBullet{
+		list-style-type: none;
+	}
 
 	.indentList{
 		margin-left: 3em; 
