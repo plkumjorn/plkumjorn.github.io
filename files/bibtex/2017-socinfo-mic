@@ -1,0 +1,19 @@
+@InProceedings{10.1007/978-3-319-67256-4_41,
+author="Lertvittayakumjorn, Piyawat
+and Wu, Chao
+and Liu, Yue
+and Mi, Hong
+and Guo, Yike",
+editor="Ciampaglia, Giovanni Luca
+and Mashhadi, Afra
+and Yasseri, Taha",
+title="Exploratory Analysis of Big Social Data Using MIC/MINE Statistics",
+booktitle="Social Informatics",
+year="2017",
+publisher="Springer International Publishing",
+address="Cham",
+pages="513--526",
+abstract="A major goal of Exploratory Data Analysis (EDA) is to understand main characteristics of a dataset, especially relationships between variables, which are helpful for creating a predictive model and analysing causality in social science research. This paper aims to introduce Maximal Information Coefficient (MIC) and its by-product statistics to social science researchers as effective EDA tools for big social data. A case study was conducted using a historical data of more than 3,000 country-level indicators. As a result, MIC and some by-product statistics successfully provided useful information for EDA complementing the traditional Pearson's correlation. Moreover, they revealed several significant, including nonlinear, relationships between variables which are intriguing and able to suggest further research in social sciences.",
+isbn="978-3-319-67256-4"
+}
+

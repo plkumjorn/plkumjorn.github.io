@@ -1,0 +1,18 @@
+@InProceedings{10.1007/978-3-319-70682-5_8,
+author="Lertvittayakumjorn, Piyawat
+and Kertkeidkachorn, Natthawut
+and Ichise, Ryutaro",
+editor="Wang, Zhe
+and Turhan, Anni-Yasmin
+and Wang, Kewen
+and Zhang, Xiaowang",
+title="Resolving Range Violations in DBpedia",
+booktitle="Semantic Technology",
+year="2017",
+publisher="Springer International Publishing",
+address="Cham",
+pages="121--137",
+abstract="DBpedia, a large-scale multi-disciplinary knowledge graph extracted from structured data in Wikipedia, is an essential part of the Linked Open Data (LOD). However, several previous works report many types of errors existing in DBpedia. The crucial one is a range violation error -- a problem when an object of a triple does not have a type required by the range of the triple's predicate. This inconsistency could undermine the effectiveness of any applications using DBpedia. In this paper, we aim to correct these erroneous triples by finding correct objects with the required type to replace the incorrect objects. Our approach is based on graph analysis and keyword matching. It also exploits information from the incorrect objects because, despite their incorrectness, they contain useful clues to find the correct objects. The results from eight different datasets show that our proposed approach outperforms various baseline methods, including entity search (e.g., Soft-TFIDF and DBpedia Lookup) and knowledge graph completion (TransE and AMIE+).",
+isbn="978-3-319-70682-5"
+}
+

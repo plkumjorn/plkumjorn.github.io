@@ -1,0 +1,11 @@
+@inproceedings{zhangkumjornZeroShot,
+    title = "Integrating Semantic Knowledge to Tackle Zero-shot Text Classification",
+    author = "Zhang, Jingqing and
+    Lertvittayakumjorn, Piyawat and 
+    Guo, Yike",
+    booktitle = "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Long Papers)",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, USA",
+    publisher = "Association for Computational Linguistics",
+}

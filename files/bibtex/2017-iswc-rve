@@ -1,0 +1,6 @@
+@inproceedings{lertvittayakumjorn2017correcting,
+	title={Correcting Range Violation Errors in DBpedia.},
+	author={Lertvittayakumjorn, Piyawat and Kertkeidkachorn, Natthawut and Ichise, Ryutaro}
+    booktitle = "International Semantic Web Conference (Posters, Demos & Industry Tracks)",
+    year = "2017",
+}

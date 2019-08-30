@@ -56,6 +56,37 @@
 		box-sizing: border-box;
 	}
 
+/* My Style */
+	.pub-title{
+		font-weight: bold;
+		display: block;
+	}
+
+	.pub-authors{
+		font-size: 75%;
+		display: block;
+	}
+
+	.pub-info{
+		font-size: 75%;
+		display: block;
+	}
+
+	.pub-panel{
+		float: right;
+		margin: 0 1em 1em 0;
+		top: 0.25em;
+	}
+
+	#main ul.alt ul.pub-panel li {
+		border-top-color: transparent;
+	}
+
+	.fa-disabled {
+		opacity: 0.3;
+		cursor: default;
+	}
+
 /* Grid */
 
 	.row {

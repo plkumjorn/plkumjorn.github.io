@@ -1,0 +1,12 @@
+@ARTICLE{8643028, 
+author={C. {Wu} and G. {Wang} and J. {Zhu} and P. {Lertvittayakumjorn} and S. {Hu} and C. {Tan} and H. {Mi} and Y. {Xu} and J. {Xiao}}, 
+journal={IEEE Access}, 
+title={Exploratory Analysis for Big Social Data Using Deep Network}, 
+year={2019}, 
+volume={7}, 
+number={}, 
+pages={21446-21453}, 
+keywords={Big Data;data analysis;data mining;data warehouses;geophysics computing;social networking (online);exploratory analysis;big social data;deep network;unknown relationships;data sources;social science data analysis;feature selection;capture complexity;input features;data collection;data warehouse;model setup;model structures;model level;data preparation;Feature extraction;Biological neural networks;Training;Predictive models;Data models;Data collection;Data-driven;new paradigm;social science}, 
+doi={10.1109/ACCESS.2019.2898238}, 
+ISSN={2169-3536}, 
+month={},}
