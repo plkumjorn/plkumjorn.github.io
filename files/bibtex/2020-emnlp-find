@@ -1,0 +1,8 @@
+@misc{lertvittayakumjorn2020find,
+      title={FIND: Human-in-the-Loop Debugging Deep Text Classifiers}, 
+      author={Piyawat Lertvittayakumjorn and Lucia Specia and Francesca Toni},
+      year={2020},
+      eprint={2010.04987},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
