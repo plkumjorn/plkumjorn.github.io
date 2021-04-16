@@ -92,6 +92,11 @@
 		margin: 0 0 1em 0;
 	}
 
+	/*#newslist {
+		max-height: 300px;
+		overflow-y: auto;
+	}*/
+
 /* Grid */
 
 	.row {

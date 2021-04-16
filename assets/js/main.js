@@ -134,6 +134,18 @@
 				speed: 1000
 			});
 
+		// See more news
+		$('#news ul .old').hide();
+		$('#news ul .seemore').click(function() {
+			if($(this).text() == "See more"){
+				$("#news ul .old").show();
+				$(this).text("See less");
+			}
+			else{ // See less
+				$("#news ul .old").hide();
+				$(this).text("See more");
+			}
+		});
 	});
 
 })(jQuery);
