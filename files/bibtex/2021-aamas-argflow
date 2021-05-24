@@ -1,0 +1,15 @@
+@inproceedings{10.5555/3463952.3464229,
+author = {Dejl, Adam and He, Peter and Mangal, Pranav and Mohsin, Hasan and Surdu, Bogdan and Voinea, Eduard and Albini, Emanuele and Lertvittayakumjorn, Piyawat and Rago, Antonio and Toni, Francesca},
+title = {Argflow: A Toolkit for Deep Argumentative Explanations for Neural Networks},
+year = {2021},
+isbn = {9781450383073},
+publisher = {International Foundation for Autonomous Agents and Multiagent Systems},
+address = {Richland, SC},
+abstract = {In recent years, machine learning (ML) models have been successfully applied in a variety of real-world applications. However, they are often complex and incomprehensible to human users. This can decrease trust in their outputs and render their usage in critical settings ethically problematic. As a result, several methods for explaining such ML models have been proposed recently, in particular for black-box models such as deep neural networks (NNs). Nevertheless, these methods predominantly explain model outputs in terms of inputs, disregarding the inner workings of the ML model computing those outputs. We present Argflow, a toolkit enabling the generation of a variety of 'deep' argumentative explanations (DAXs) for outputs of NNs on classification tasks.},
+booktitle = {Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems},
+pages = {1761–1763},
+numpages = {3},
+keywords = {computational argumentation, neural networks, explainable ai},
+location = {Virtual Event, United Kingdom},
+series = {AAMAS '21}
+}
