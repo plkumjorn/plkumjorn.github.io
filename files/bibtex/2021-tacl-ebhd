@@ -1,0 +1,17 @@
+@article{lertvittayakumjorn2021explanation,
+    author = {Lertvittayakumjorn, Piyawat and Toni, Francesca},
+    title = "{Explanation-Based Human Debugging of NLP Models: A Survey}",
+    journal = {Transactions of the Association for Computational Linguistics},
+    volume = {9},
+    pages = {1508-1528},
+    year = {2021},
+    month = {12},
+    abstract = "{Debugging a machine learning model is hard since the bug usually involves the training data and the learning process. This becomes even harder for an opaque deep learning model if we have no clue about how the model actually works. In this survey, we review papers that exploit explanations to enable humans to give feedback and debug NLP models. We call this problem explanation-based human debugging (EBHD). In particular, we categorize and discuss existing work along three dimensions of EBHD (the bug context, the workflow, and the experimental setting), compile findings on how EBHD components affect the feedback providers, and highlight open problems that could be future research directions.}",
+    issn = {2307-387X},
+    doi = {10.1162/tacl_a_00440},
+    url = {https://doi.org/10.1162/tacl\_a\_00440},
+    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00440/1979740/tacl\_a\_00440.pdf},
+}
+
+
+
