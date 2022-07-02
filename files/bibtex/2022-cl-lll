@@ -1,0 +1,16 @@
+@article{10.1162/coli_a_00449,
+    author = {Kanwatchara, Kasidis and Horsuwan, Thanapapas and Lertvittayakumjorn, Piyawat and Kijsirikul, Boonserm and Vateekul, Peerapon},
+    title = "{Enhancing Lifelong Language Learning by Improving Pseudo-Sample Generation}",
+    journal = {Computational Linguistics},
+    pages = {1-33},
+    year = {2022},
+    month = {06},
+    abstract = "{To achieve lifelong language learning, pseudo-rehearsal methods leverage samples generated from a language model to refresh the knowledge of previously learned tasks. Without proper controls, however, these methods could fail to retain the knowledge of complex tasks with longer texts since most of the generated samples are low in quality. To overcome the problem, we propose three specific contributions. First, we utilize double language models, each of which specializes on a specific part of the input, to produce high-quality pseudo samples. Second, we reduce the number of parameters used by applying adapter modules to enhance training efficiency. Third, we further improve the overall quality of pseudo samples using temporal ensembling and sample regeneration. The results show that our framework achieves significant improvement over baselines on multiple task sequences. Also, our pseudo sample analysis reveals helpful insights for designing even better pseudo-rehearsal methods in the future.}",
+    issn = {0891-2017},
+    doi = {10.1162/coli_a_00449},
+    url = {https://doi.org/10.1162/coli\_a\_00449},
+    eprint = {https://direct.mit.edu/coli/article-pdf/doi/10.1162/coli\_a\_00449/2032851/coli\_a\_00449.pdf},
+}
+
+
+
