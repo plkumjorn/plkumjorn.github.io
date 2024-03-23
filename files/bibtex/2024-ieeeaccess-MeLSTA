@@ -1,0 +1,11 @@
+@article{horsuwan2024meta,
+  author={Horsuwan, Thanapapas and Lertvittayakumjorn, Piyawat and Kanwatchara, Kasidis and Kijsirikul, Boonserm and Vateekul, Peerapon},
+  journal={IEEE Access}, 
+  title={Meta Lifelong-Learning With Selective and Task-Aware Adaptation}, 
+  year={2024},
+  volume={12},
+  number={},
+  pages={34099-34115},
+  keywords={Task analysis;Adaptation models;Metalearning;Training;Inference algorithms;Prediction algorithms;Optimization;Text categorization;Learning systems;Catastrophic forgetting;lifelong learning;meta-adaptation;meta-learning;meta lifelonglearning;relation detection;text classification},
+  doi={10.1109/ACCESS.2024.3365663}
+}
