@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3613904.3642217,
+author = {Lin, Susan and Warner, Jeremy and Zamfirescu-Pereira, J.D. and Lee, Matthew G and Jain, Sauhard and Cai, Shanqing and Lertvittayakumjorn, Piyawat and Huang, Michael Xuelin and Zhai, Shumin and Hartmann, Bjoern and Liu, Can},
+title = {Rambler: Supporting Writing With Speech via LLM-Assisted Gist Manipulation},
+year = {2024},
+isbn = {9798400703300},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3613904.3642217},
+doi = {10.1145/3613904.3642217},
+abstract = {Dictation enables efficient text input on mobile devices. However, writing with speech can produce disfluent, wordy, and incoherent text and thus requires heavy post-processing. This paper presents Rambler, an LLM-powered graphical user interface that supports gist-level manipulation of dictated text with two main sets of functions: gist extraction and macro revision. Gist extraction generates keywords and summaries as anchors to support the review and interaction with spoken text. LLM-assisted macro revisions allow users to respeak, split, merge, and transform dictated text without specifying precise editing locations. Together they pave the way for interactive dictation and revision that help close gaps between spontaneously spoken words and well-structured writing. In a comparative study with 12 participants performing verbal composition tasks, Rambler outperformed the baseline of a speech-to-text editor + ChatGPT, as it better facilitates iterative revisions with enhanced user control over the content while supporting surprisingly diverse user strategies.},
+booktitle = {Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems},
+articleno = {1043},
+numpages = {19},
+keywords = {AI, LLM, STT, dictation, speech, speech-to-text, text composition, writing},
+location = {Honolulu, HI, USA},
+series = {CHI '24}
+}
